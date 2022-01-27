@@ -1,0 +1,3 @@
+tensorflow
+matplotlib
+tensorflow_model_optimization
